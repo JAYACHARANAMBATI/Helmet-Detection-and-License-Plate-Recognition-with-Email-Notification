@@ -1,0 +1,15 @@
+names:
+- bicyclist
+- driver
+- helmet
+- no-helmet
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: helmet-detection-ntbfz
+  url: https://universe.roboflow.com/imagerecognition-43zpb/helmet-detection-ntbfz/dataset/13
+  version: 13
+  workspace: imagerecognition-43zpb
+test: C:\Users\91964\OneDrive\Desktop\DL\helmet-detection-13\test\images
+train: C:\Users\91964\OneDrive\Desktop\DL\helmet-detection-13\train\images
+val: C:\Users\91964\OneDrive\Desktop\DL\helmet-detection-13\valid\images
